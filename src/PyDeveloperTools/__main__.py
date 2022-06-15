@@ -2,7 +2,7 @@ import time
 import random
 from winotify import Notification, audio
 from tkinter import messagebox
-pydtversion = "1.3.0"
+pydtversion = "1.4.0"
 
 class DeveloperTools():
 
