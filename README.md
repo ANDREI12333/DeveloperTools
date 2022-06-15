@@ -1,9 +1,9 @@
-# DeveloperTools
+# Developer Tools
 A collection of functions for python developers.
 
 **Table of contents**
 
-* [DeveloperTools](https://github.com/ANDREI12333/DeveloperTools#developertools)
+* [Developer Tools](https://github.com/ANDREI12333/DeveloperTools#developertools)
     * [Installation](https://github.com/ANDREI12333/DeveloperTools/#installation)
     * [LICENSE](https://github.com/ANDREI12333/DeveloperTools/#license)
 
