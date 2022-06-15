@@ -3,7 +3,7 @@ A collection of functions for python developers.
 
 **Table of contents**
 
-* [Developer Tools](https://github.com/ANDREI12333/DeveloperTools#developertools)
+* [Developer Tools](https://github.com/ANDREI12333/DeveloperTools#developer-tools)
     * [Installation](https://github.com/ANDREI12333/DeveloperTools/#installation)
     * [LICENSE](https://github.com/ANDREI12333/DeveloperTools/#license)
 
