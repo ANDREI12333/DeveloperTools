@@ -2,6 +2,7 @@ import time
 import random
 from winotify import Notification, audio
 from tkinter import messagebox
+pydtversion = "1.2.0"
 
 class DeveloperTools():
 
@@ -53,6 +54,10 @@ class DeveloperTools():
             messagebox.askyesno(title, information)
         if type == "askretrycancel":
             messagebox.askretrycancel(title, information)
+
+    def about():
+        print(f"PyDeveloperTools {pydtversion}")
+        print("Thank you for using PyDeveloperTools!")
 
     def __init__(self):
         super(DeveloperTools, self).__init__()
