@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: PyDeveloperTools
-Version: 1.0.0
+Version: 1.1.0
 Summary: A collection of functions for python developers.
 Home-page: https://github.com/ANDREI12333/DeveloperTools
 Author: Andrei Balan
@@ -25,7 +25,7 @@ A collection of functions for python developers.
 # Installation
 Run the following command in a terminal or a command prompt.
 ```
-pip install DeveloperTools
+pip install PyDeveloperTools
 ```
 # LICENSE
 **This project is being published using the MIT License, READ [LICENSE.md](https://github.com/ANDREI12333/DeveloperTools/blob/main/LICENSE.md) for more info.**

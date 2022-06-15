@@ -10,7 +10,7 @@ A collection of functions for python developers.
 # Installation
 Run the following command in a terminal or a command prompt.
 ```
-pip install DeveloperTools
+pip install PyDeveloperTools
 ```
 # LICENSE
 **This project is being published using the MIT License, READ [LICENSE.md](https://github.com/ANDREI12333/DeveloperTools/blob/main/LICENSE.md) for more info.**
