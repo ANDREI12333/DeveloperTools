@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.cfg
+src/DeveloperTools/DeveloperTools.py
+src/DeveloperTools/__init__.py
+src/DeveloperTools/testing.py
+src/PyDeveloperTools.egg-info/PKG-INFO
+src/PyDeveloperTools.egg-info/SOURCES.txt
+src/PyDeveloperTools.egg-info/dependency_links.txt
+src/PyDeveloperTools.egg-info/top_level.txt
