@@ -3,11 +3,7 @@ import random
 import yaml
 from winotify import Notification, audio
 from tkinter import messagebox
-<<<<<<< HEAD:src/PyDeveloperTools/__main__.py
 pydtversion = "1.5.0"
-=======
-pydtversion = "1.3.0"
->>>>>>> b980f85fbecac3c7f7c947a1570b05677f9d98d2:src/PyDeveloperTools/__init__.py
 
 class DeveloperTools():
 
