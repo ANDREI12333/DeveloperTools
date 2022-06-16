@@ -1,8 +1,0 @@
-# Python
-/__pycache__
-
-# PyPi
-setup.cfg
-pyproject.toml
-/dist
-/tests
