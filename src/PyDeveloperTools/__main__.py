@@ -1,5 +1,6 @@
 import time
 import random
+import yaml
 from winotify import Notification, audio
 from tkinter import messagebox
 pydtversion = "1.4.0"
@@ -58,6 +59,10 @@ class DeveloperTools():
     def about():
         print(f"PyDeveloperTools {pydtversion}")
         print("Thank you for using PyDeveloperTools!")
+
+    def load_yaml(filepath="config.yml"):
+        with open(filepath, 'r') as file:
+            return yaml.load(file)
 
     def __init__(self):
         super(DeveloperTools, self).__init__()
